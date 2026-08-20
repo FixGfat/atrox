@@ -2,7 +2,7 @@
 
 Atrox is proprietary, closed-source software.
 
-By downloading, installing, accessing, or using Atrox, you acknowledge that you have read and agree to be bound by the terms of the [LICENSE](./LICENSE).
+By downloading, installing, accessing, or using Atrox, you acknowledge that you have read and agree to be bound by the terms of the [LICENSE](./LICENSE.md).
 
 If you do not agree to the Licence, do not download, install, access, or use Atrox.
 
